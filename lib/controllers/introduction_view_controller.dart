@@ -26,8 +26,8 @@ class IntroductionViewController extends GetxController{
      svgUrl: assets.brushesSvg,
    ),
    IntroductionContentModel(
-     title: localization.fullyCustomizableTitle,
-     description: localization.fullyCustomizableDescription,
+     title: localization.fullyCustomizableTitle.tr,
+     description: localization.fullyCustomizableDescription.tr,
      svgUrl: assets.brushesSvg,
    )
  ];
