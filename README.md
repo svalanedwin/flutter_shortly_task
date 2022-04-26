@@ -1,4 +1,5 @@
 Flutter Shortly Task by Valan Edwin S
+
 This is a test project for Innovent Integrated Solutions Company.
 
 Summary of the Project
@@ -29,3 +30,10 @@ Clipboard
 Dio
 
 Git path : https://github.com/svalanedwin/flutter_shortly_task.git
+
+TASK DEMO:
+
+https://user-images.githubusercontent.com/2909459/165352271-fd0267f1-aa04-4247-b6d7-f4896877c9db.mp4
+
+Thanks,
+Valan Edwin S
